@@ -1,6 +1,10 @@
 # 2020-PO-BitRunner
 Projet des portes ouvertes 2020
-Par Anthony Spiniello, Rayan Broquet et Matteo Membrez
+
+## Membres: 
+	Anthony Spiniello
+	Matteo Membrez
+	Rayan Broquet
 
 ## Description du projet
 Le jeu BitRunner reprend la forme d'un jeu comme TempleRun ou encore SubwaySurfer mais dans une thématique de circuit imprimé à l'intérieur d'un ordinateur. Le joueur communiquera avec l'ordinateur à l'aide d'une kinect qui retranscrira les mouvements du joueurs dans le jeu.
